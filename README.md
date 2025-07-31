@@ -1,2 +1,3 @@
-# start-demo
-This is my first  repository 
+# start GitHub - demo
+This is my first  GitHub repository 
+Auther- mahek
